@@ -1,7 +1,7 @@
 
 # Olá, me chamo Lucas! 👋🏾
 
-Aspirante a Java Backend development e DevSecOps. Estudando análise e desenvolvimento de sistemas e buscando conhecimento todos os dias.
+Aspirante a Java Backend developer e DevSecOps. Estudando análise e desenvolvimento de sistemas e buscando conhecimento todos os dias.
 
 Minha jornada está apenas começando no mundo da tecnologia. Me acompanhe nessa jornada de conhecimento e evolução contínua! 🚀
 
