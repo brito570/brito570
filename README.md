@@ -24,26 +24,26 @@ Minha jornada está apenas começando no mundo da tecnologia. Me acompanhe nessa
 #### Bootcamps e programas ####
 
 [<img src="https://hermes.dio.me/tracks/a039b34c-7aa8-4a3d-b765-07c8c837f67a.png" height="50"></a>](https://web.dio.me/track/7da9882f-2f0d-4f4d-b997-f300ce50f9f5)
-[<img src="https://conteudo.hackersdobem.org.br/assets/json/uploads/HACKERSDOBEM_LOGO_RGB_PRINCIPAL_POSITIVA_1_8c655bcacf.svg" height="45"></a>](https://conteudo.hackersdobem.org.br/)
+[<img src="https://ava.hackersdobem.org.br/pluginfile.php/1/theme_edumy/headerlogo_mobile/1714442599/header-logo.png" height="45"></a>](https://conteudo.hackersdobem.org.br/)
 
 ###  Acompanhe meu progresso ###
 
  📖 Curso superior de técnologia: Análise e desenvolvimento de sistemas 
     
-    🎒 FATEC Carapicuíba
+  - 🎒 FATEC Carapicuíba
     
-    🕑 Previsão de término: dezembro de 2026 
+  - 🕑 Previsão de término: dezembro de 2026 
 
 📖 Bootcamp Santander
 
-    🎒 DIO - Digital Innovation One
+  - 🎒 DIO - Digital Innovation One
 
-    🕑Previsão de término: julho de 2024
+  - 🕑 Previsão de término: julho de 2024
 
 📖 Programa Hackers do Bem
     
-    🎒 SENAI em parceria com governo federal e RNP
+  - 🎒 SENAI em parceria com governo federal e RNP
 
-    🕑 Previsão de término: maio de 2025
+  - 🕑 Previsão de término: maio de 2025
 
 
