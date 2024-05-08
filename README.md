@@ -1,5 +1,5 @@
 
-# Olá, me chamo Lucas! 👋🏼
+# Olá, me chamo Lucas! 👋🏽
 
 Aspirante a Java Backend developer e DevSecOps. Estudando análise e desenvolvimento de sistemas e buscando conhecimento todos os dias.
 
