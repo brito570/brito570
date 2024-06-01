@@ -24,7 +24,6 @@ Minha jornada está apenas começando no mundo da tecnologia. Me acompanhe nessa
 ## Bootcamps e programas
 
 [<img src="https://hermes.dio.me/tracks/a039b34c-7aa8-4a3d-b765-07c8c837f67a.png" height="50"></a>](https://web.dio.me/track/7da9882f-2f0d-4f4d-b997-f300ce50f9f5)
-[<img src="https://hermes.dio.me/tracks/0cb208b8-6bf4-454b-9b12-9e9418ad0356.png" height="50"></a>](https://web.dio.me/track/bootcamp-nexa-fundamentos-de-ia-generativa-e-claude-3)
 [<img src="https://ava.hackersdobem.org.br/pluginfile.php/1/theme_edumy/headerlogo_mobile/1714442599/header-logo.png" height="45"></a>](https://conteudo.hackersdobem.org.br/)
 
 ##  Acompanhe meu progresso 
@@ -53,15 +52,6 @@ Minha jornada está apenas começando no mundo da tecnologia. Me acompanhe nessa
    - 🎒 SENAI em parceria com governo federal e RNP
 
    - 🕑 Previsão de término: maio de 2025
-
-</details>
-
-<details align="left">
-  <summary> 📖 Bootcamp Nexa - Fundamentos de IA Generativa e Claude 3 </summary> 
- 
-   - 🎒 DIO - Digital Innovation One
-
-   - 🕑 Previsão de término: 19 de maio de 2024
 
 </details>
 
