@@ -38,15 +38,6 @@ Minha jornada está apenas começando no mundo da tecnologia. Me acompanhe nessa
 </details>
  
 <details align="left">
-  <summary> 📖 Bootcamp Santander JAVA Backend </summary> 
- 
-  - 🎒 DIO - Digital Innovation One
-
-  - 🕑 Previsão de término: julho de 2024
-
-</details>
-
-<details align="left">
   <summary> 📖 Programa Hackers do Bem </summary> 
  
    - 🎒 SENAI em parceria com governo federal e RNP
