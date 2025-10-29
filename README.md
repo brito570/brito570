@@ -16,6 +16,8 @@ Minha jornada está apenas começando no mundo da tecnologia. Me acompanhe nessa
 
 ![Java](https://img.shields.io/badge/java-%3333333.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white)
+
 #### Outras ferramentas 
 
  [![GitHub](https://img.shields.io/badge/GitHub-333333?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SEUUSERNAME)
