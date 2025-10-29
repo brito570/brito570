@@ -35,16 +35,7 @@ Minha jornada está apenas começando no mundo da tecnologia. Me acompanhe nessa
  
    - 🎒 FATEC Carapicuíba
 
-   - 🕑 Previsão de término: dezembro de 2026
-
-</details>
- 
-<details align="left">
-  <summary> 📖 Programa Hackers do Bem </summary> 
- 
-   - 🎒 SENAI em parceria com governo federal e RNP
-
-   - 🕑 Previsão de término: maio de 2025
+   - 🕑 Previsão de término: junho de 2027
 
 </details>
 
